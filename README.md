@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-I am Tajul Islam, from Gazipur Bangladesh. A tech enthusiast. Find out more about me & feel free to connect with me here:
+I'm Tajul Islam from Gazipur, Bangladesh, and a passionate tech enthusiast. As a Fullstack developer, I thrive on building dynamic and scalable applications. Learn more about my journey, and feel free to connect with me here:
 
 <!-- Socical platform links -->
 
 <p>
-<a href="https://twitter.com/tajulislamsaikt"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=23></a>
+<a href="https://x.com/@tajulislamsaikt"><img src="https://img.shields.io/badge/X-000000?&style=for-the-badge&logo=x&logoColor=white
+" height=23></a>
 <a href="https://facebook.com/tajulislamsaikat"><img src="https://img.shields.io/badge/Facebook-blue?&style=for-the-badge&logo=facebook&logoColor=white" height=23></a>
-
+<a href="https://www.linkedin.com/in/tajulislamsaikat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
 </p>
 
 <!-- ### ⚡ Technologies -->
@@ -19,9 +20,13 @@ I am Tajul Islam, from Gazipur Bangladesh. A tech enthusiast. Find out more abou
 ![Php](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-E34F26?style=flat-square&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?&style=flat&logo=Vue.js&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?&style=flat&logo=Vue.js&logoColor=white)
+![NuxtJs](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+![TailwindCss](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
