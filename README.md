@@ -5,8 +5,7 @@ I'm Tajul Islam from Gazipur, Bangladesh, and a passionate tech enthusiast. As a
 <!-- Socical platform links -->
 
 <p>
-<a href="https://x.com/@tajulislamsaikt"><img src="https://img.shields.io/badge/X-000000?&style=for-the-badge&logo=x&logoColor=white
-" height=23></a>
+<a href="https://x.com/tajulislamsaikt"><img src="https://img.shields.io/badge/X-000000?&style=for-the-badge&logo=x&logoColor=white" height=23></a>
 <a href="https://facebook.com/tajulislamsaikat"><img src="https://img.shields.io/badge/Facebook-blue?&style=for-the-badge&logo=facebook&logoColor=white" height=23></a>
 <a href="https://www.linkedin.com/in/tajulislamsaikat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
 </p>
