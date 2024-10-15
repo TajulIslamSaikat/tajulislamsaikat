@@ -30,18 +30,18 @@ I'm Tajul Islam from Gazipur, Bangladesh, and a passionate tech enthusiast. As a
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 
 </p>
 <!-- Integrated App (For statistics) -->
 
 <!-- GitHub stat -->
-<!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+<!-- 
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=sunwarul&count_private=true&show_icons=true&include_all_commits=true) -->
 
 <!-- Most used languages -->
 
@@ -51,19 +51,12 @@ I'm Tajul Islam from Gazipur, Bangladesh, and a passionate tech enthusiast. As a
 
 EXTRA (NOT ACTIVE)
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunwarul/)](https://www.linkedin.com/in/sunwarul/)
-
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sunwarul/)](https://medium.com/@sunwarul)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sunwarul.dev@gmail.com)](mailto:sunwarul.dev@gmail.com)
-[![dev.to](https://dev.to/sunwarul)](https://dev.to/sunwarul)
-
-**Sunwarul/sunwarul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TajulIslamSaikat/tajulislamsaikat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
